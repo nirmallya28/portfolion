@@ -194,7 +194,7 @@ export const experiences = [
     img: "https://i.postimg.cc/t4kFfX59/images-1.jpg",
     role: "Frontend Engineer and  Reaserch Assistant Intern",
     company: "IEM IEDC",
-    date: "May 2024 - Nov 2024",
+    date: "May 2025 - june 2025",
     desc: "Worked as a Front-End Engineer at **IEM IEDC (Innovation and Entrepreneurship Development Cell)**, where I specialized in designing and developing modern, user-friendly interfaces for web applications. Leveraged technologies such as **React.js**, **HTML5**, **CSS3**, and **JavaScript** to create seamless user experiences. Collaborated closely with cross-functional teams to implement interactive components, optimize performance, and ensure responsiveness across devices. Focused on delivering visually appealing designs aligned with user needs and the organization's goals.",
     skills: [
       "ReactJS",
@@ -226,7 +226,7 @@ export const education = [
     id: 0,
     img: "https://i.postimg.cc/qvHdYr7D/IEM-New-Logo.jpg",
     school: "Institute of Engineering and Management, kolkata",
-    date: "Oct 2022 - Sep 2025",
+    date: "Oct 2022 - June 2026",
     grade: "8.0 CGPA",
     desc: "Currently pursuing a Bachelor of Technology in Computer Science and Engineering from the Institute of Engineering and Management (IEM), Kolkata. Gaining in-depth knowledge of programming, software development, and cutting-edge technologies like web development, AI/ML, and database management. Actively participating in projects, hackathons, and research initiatives to enhance technical and problem-solving skills while preparing for a dynamic career in the tech industry.",
     degree: "Bachelor of Technology - BTech, Computer Science and Business Systems",
@@ -291,4 +291,5 @@ export const projects = [
     webapp: "",
   },
 ];
+
 
